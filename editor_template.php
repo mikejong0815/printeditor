@@ -26,18 +26,6 @@ get_header(); ?>
 			<li>
 				<a href="javascript:;" id="textButton" onclick="drawText()"><i class="fa fa-font fa-2x" aria-hidden="true"></i></a>
 			</li>
-			<li>
-				<a href="javascript:;" id="triangleButton" onclick="drawTriangle()"><i class="fa fa-sort-up fa-2x" aria-hidden="true"></i></a>
-			</li>
-			<li>
-				<a href="javascript:;" id="rectButton" onclick="drawRectangle()"><i class="fa fa-square fa-2x" aria-hidden="true"></i></a>
-			</li>
-			<li>
-				<a href="javascript:;"  id="circleButton" onclick="drawCircle()"><i class="fa fa-circle fa-2x" aria-hidden="true"></i></a>
-			</li>
-			<li>
-				<a href="javascript:;" id="lineButton" onclick="drawLine()"><i class="fa fa-pencil fa-2x" aria-hidden="true"></i></a>
-			</li>
 		</ul>
 	</div>
     <div id="grid-title-holder">
